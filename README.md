@@ -1,7 +1,7 @@
 # Erlang Introduction Workshop
 
 This repository contains the workspace for the Erlang Introduction Workshop
-at BOBConf Berlin 2014.
+at BOBConf Berlin 2015.
 
 ## License
 
